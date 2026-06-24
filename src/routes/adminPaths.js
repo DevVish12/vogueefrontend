@@ -1,0 +1,21 @@
+export const ADMIN_PATHS = {
+    LOGIN: '/admin/secure-login-r9k',
+    REGISTER: '/admin/secure-register-r9k',
+    CREATE_ADMIN: '/admin/secure-create-admin-r9k',
+    FORGOT_PASSWORD: '/admin/secure-forgot-password-r9k',
+    RESET_PASSWORD: '/admin/secure-reset-password-r9k/:token',
+    SERVICES: '/admin/secure-services-r9k',
+    COMMISSIONS: '/admin/secure-commissions-r9k',
+    DASHBOARD: '/admin/secure-dashboard-r9k',
+    CATEGORY: '/admin/secure-category-r9k',
+    BANNER: '/admin/secure-banner-r9k',
+    REVIEWS: '/admin/secure-reviews-r9k',
+    USERS: '/admin/secure-users-r9k',
+    USER_BOOKINGS: '/admin/secure-user-bookings-r9k',
+    NO_PARTNER_BOOKINGS: '/admin/secure-no-partner-bookings-r9k',
+    PARTNERS: '/admin/secure-partners-r9k',
+    PARTNER_KYC: '/admin/secure-partner-kyc-r9k',
+    PAYOUTS: '/admin/secure-payouts-r9k',
+    PAYOUT_HISTORY: '/admin/secure-payout-history-r9k',
+    COUPONS: '/admin/secure-coupons-r9k'
+};
